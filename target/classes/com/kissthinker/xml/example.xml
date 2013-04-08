@@ -1,8 +1,0 @@
-<parent>
-    Some parent text
-    <child id="whatever 1">
-        Some child text
-        <grandchild>Some grandchild text</grandchild>
-    </child>
-    <child id="whatever 2"/>
-</parent>
