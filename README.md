@@ -1,3 +1,15 @@
+Java XML Functionality/Utilities
+================================
+
+Application built with the following technologies:
+
+- Java 7
+
+- Maven 3
+
+Introduction
+------------
+
 Ease the use of XML.
 
 For simple building of XML (within Java) use this DSL e.g.
@@ -34,5 +46,3 @@ assertEquals("20120101", xml.get("//publication/@publicationDate|date"));
 ```
   
 A work in progress project that has been on the back burner for quite some time.  
-
-Note, this is a Java 7, Maven 3 project.
